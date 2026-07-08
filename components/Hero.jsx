@@ -47,6 +47,7 @@ export default function Hero() {
             initial={{ opacity: 0, y: 20 }}
             animate={{ opacity: 1, y: 0 }}
             transition={{ duration: 0.7, delay: 0.4 }}
+            style={{ textAlign: "justify" }}
             className="max-w-2xl text-lg md:text-xl text-gray-400 leading-relaxed z-20 relative"
           >
             Бид таны бизнесийг ойлгож, онцгой зорилгод чинь нийцсэн, өгөгдөлд 
