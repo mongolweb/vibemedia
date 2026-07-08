@@ -13,7 +13,7 @@ const team = [
     id: 2,
     name: "Б.Баатархүү",
     role: "Founder & Co-Ceo",
-    image: "/team/Orgil.jpg",
+    image: "/team/baataraa.jpg",
   },
   {
     id: 3,
