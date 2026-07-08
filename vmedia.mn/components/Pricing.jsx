@@ -11,8 +11,8 @@ const team = [
   },
   {
     id: 2,
-    name: "С.Мөнх-Оргил",
-    role: "Full Stack Developer",
+    name: "Б.Баатархүү",
+    role: "Founder & Co-CEO",
     image: "/team/Orgil.jpg",
   },
   {
